@@ -8,7 +8,7 @@ This repository includes a simple demo built on 25,000 Unsplash images and 7,685
 
 ## Usage
 
-Click [here](https://colab.research.google.com/github/vivien000/clip-demo/blob/master/clip.ipynb#scrollTo=Gk-ai6za6Apu) to try the included notebook in Google Colab. Connect with your Google account and execute the first (and only) code cell.
+Click [here](https://colab.research.google.com/github/vivien000/clip-demo/blob/master/clip.ipynb) to try the included notebook in Google Colab. Connect with your Google account and execute the first (and only) code cell.
 
 ## Acknowledgements
 
