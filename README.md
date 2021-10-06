@@ -10,6 +10,8 @@ This repository includes a simple demo built on 25,000 Unsplash images and 7,685
 
 Click [here](https://colab.research.google.com/github/vivien000/clip-demo/blob/master/clip.ipynb) to try the included notebook in Google Colab. Connect with your Google account and execute the first (and only) code cell.
 
+Alternatively, an equivalent demo can be found as a Hugging Face's [Space](https://huggingface.co/spaces/vivien/clip) (and it works without an account).
+
 ## Acknowledgements
 
 Thanks to:
