@@ -17,6 +17,6 @@ Alternatively, an equivalent demo can be found as a Hugging Face's [Space](https
 Thanks to:
 - OpenAI for sharing [CLIP](https://github.com/openai/CLIP)
 - Hugging Face for the [transformers](https://huggingface.co/transformers/) library
-- [Unsplash](https://unsplash.com/) and [Movie Database (TMDB)](https://www.themoviedb.org/) to allowing hotlinking to their images
+- [Unsplash](https://unsplash.com/) and [Movie Database (TMDB)](https://www.themoviedb.org/) for allowing hotlinking to their images
 
 I was inspired by [Unsplash Image Search](https://github.com/haltakov/natural-language-image-search) from Vladimir Haltakov and [Alph, The Sacred River](https://github.com/thoppe/alph-the-sacred-river) from Travis Hoppe.
